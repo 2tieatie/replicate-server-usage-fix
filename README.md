@@ -21,4 +21,4 @@ llm = Replicate(
 ```
 Here we go!
 
-**Fixed with 🐍❤️. **
+**Fixed with** 🐍❤️. 
