@@ -12,8 +12,8 @@ Replace existing file with fixed.
 ```llm = Replicate(
     model="model_name",
     use_server=True
- )```
-
+ )
+```
 Here we go!
 
 Fixed with 🐍❤️. 
