@@ -3,7 +3,7 @@ Tried to connect server hosted on Replicate to LangChain and can not do it? Here
 
 1. Go to the:
 ```
-venv\Lib\site-packages\langchain\llms\replicate.py
+site-packages\langchain\llms\replicate.py
 ```
 Replace existing file with fixed.
 
